@@ -12,8 +12,6 @@ vpns = {
     "PL" : [("PL226.vpnbook.com", "vpnbook", "z9KY2tN")],
 }
 
-
-
 subprocess.run('powershell Remove-VpnConnection -Name "VPN" -Force -PassThru', shell=True, capture_output=True)
 
 
