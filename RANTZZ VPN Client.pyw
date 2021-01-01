@@ -4,11 +4,11 @@ import subprocess
 import random
 
 vpns = {
-    "US" : [("us1.vpnbook.com", "vpnbook", "z9KY2tN"), ("us2.vpnbook.com", "vpnbook", "z9KY2tN")],
+    "US" : [("us1.vpnbook.com", "vpnbook", "z9KY2tN"), ("us2.vpnbook.com", "vpnbook", "z9KY2tN"), ("us.justfreevpn.com", "justfreevpn", "2320")],
     "UK" : [("uk.justfreevpn.com", "justfreevpn", "1881")],
-    "CA" : [("ca222.vpnbook.com", "vpnbook", "z9KY2tN"), ("ca198.vpnbook.com", "vpnbook", "z9KY2tN")],
-    "FR" : [("fr1.vpnbook.com", "vpnbook", "z9KY2tN"), ("fr8.vpnbook.com", "vpnbook", "z9KY2tN")],
-    "DE" : [("DE4.vpnbook.com", "vpnbook", "z9KY2tN")],
+    "CA" : [("ca222.vpnbook.com", "vpnbook", "z9KY2tN"), ("ca198.vpnbook.com", "vpnbook", "z9KY2tN"), ("ca.justfreevpn.com", "justfreevpn", "4965")],
+    "FR" : [("fr1.vpnbook.com", "vpnbook", "z9KY2tN"), ("fr8.vpnbook.com", "vpnbook", "z9KY2tN"), ("fr.justfreevpn.com", "justfreevpn", "2546")],
+    "DE" : [("DE4.vpnbook.com", "vpnbook", "z9KY2tN"), ("de.justfreevpn.com", "justfreevpn", "2393")],
     "PL" : [("PL226.vpnbook.com", "vpnbook", "z9KY2tN")],
 }
 
