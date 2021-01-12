@@ -12,7 +12,7 @@ OPTIONS = [
 "Select Server",
 "US Server",
 "Canada Server",
-"United Kingdom Server",
+"United Kingdom Server (down)",
 "France Server",
 "Germany Server",
 "Poland Server"
