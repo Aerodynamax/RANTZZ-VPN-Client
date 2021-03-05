@@ -19,21 +19,21 @@ OPTIONS = [
 ]
 
 TCP_VPNS = {
-    "US" : [("us1.vpnbook.com", "vpnbook", "HAndf38"), ("us2.vpnbook.com", "vpnbook", "HAndf38")],
+    "US" : [("us1.vpnbook.com", "vpnbook", "4dK5esN"), ("us2.vpnbook.com", "vpnbook", "4dK5esN")],
     "UK" : [("uk.justfreevpn.com", "justfreevpn", "1881")],
-    "CA" : [("ca222.vpnbook.com", "vpnbook", "HAndf38"), ("ca198.vpnbook.com", "vpnbook", "HAndf38")],
-    "FR" : [("fr1.vpnbook.com", "vpnbook", "HAndf38"), ("fr8.vpnbook.com", "vpnbook", "HAndf38")],
-    "DE" : [("DE4.vpnbook.com", "vpnbook", "HAndf38")],
-    "PL" : [("PL226.vpnbook.com", "vpnbook", "HAndf38")],
+    "CA" : [("ca222.vpnbook.com", "vpnbook", "4dK5esN"), ("ca198.vpnbook.com", "vpnbook", "4dK5esN")],
+    "FR" : [("fr1.vpnbook.com", "vpnbook", "4dK5esN"), ("fr8.vpnbook.com", "vpnbook", "4dK5esN")],
+    "DE" : [("DE4.vpnbook.com", "vpnbook", "4dK5esN")],
+    "PL" : [("PL226.vpnbook.com", "vpnbook", "4dK5esN")],
 }
 
 UDP_VPNS = {
-    "US" : [("us1.vpnbook.com", "vpnbook", "HAndf38"), ("us2.vpnbook.com", "vpnbook", "HAndf38")],
+    "US" : [("us1.vpnbook.com", "vpnbook", "4dK5esN"), ("us2.vpnbook.com", "vpnbook", "4dK5esN")],
     "UK" : [("uk.justfreevpn.com", "justfreevpn", "1881")],
-    "CA" : [("ca222.vpnbook.com", "vpnbook", "HAndf38"), ("ca198.vpnbook.com", "vpnbook", "HAndf38")],
-    "FR" : [("fr1.vpnbook.com", "vpnbook", "HAndf38"), ("fr8.vpnbook.com", "vpnbook", "HAndf38")],
-    "DE" : [("DE4.vpnbook.com", "vpnbook", "HAndf38")],
-    "PL" : [("PL226.vpnbook.com", "vpnbook", "HAndf38")],
+    "CA" : [("ca222.vpnbook.com", "vpnbook", "4dK5esN"), ("ca198.vpnbook.com", "vpnbook", "4dK5esN")],
+    "FR" : [("fr1.vpnbook.com", "vpnbook", "4dK5esN"), ("fr8.vpnbook.com", "vpnbook", "4dK5esN")],
+    "DE" : [("DE4.vpnbook.com", "vpnbook", "4dK5esN")],
+    "PL" : [("PL226.vpnbook.com", "vpnbook", "4dK5esN")],
 }
 
 
